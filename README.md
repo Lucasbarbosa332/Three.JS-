@@ -18,3 +18,4 @@ Meus projetos exploram o potencial de ambientes tridimensionais na web, proporci
 * WebGL: Para renderização de gráficos acelerados por hardware diretamente no navegador.
 * HTML, CSS e JavaScript: A integração com essas tecnologias front-end garantiu a responsividade e o design atrativo dos projetos.
 * Texturas e Modelagem: Utilizei ferramentas como Blender e Sketchfab para criar ou adaptar modelos 3D, adicionando texturas realistas e otimizadas para o ambiente web.
+* Elemetos em 3D pelo site 
