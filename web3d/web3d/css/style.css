@@ -1,0 +1,129 @@
+
+
+body {
+  overflow: hidden;
+  background-color: black;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  position: relative; /* Necessário para o pseudo-elemento */
+  height: 100vh; /* Garante que o body tenha altura total da tela */
+}
+
+/* Pseudo-elemento para o plano de fundo animado */
+body::before {
+  content: '';
+  position: absolute; /* Posiciona o pseudo-elemento */
+  top: 0; /* Alinha ao topo */
+  left: 0; /* Alinha à esquerda */
+  width: 100%; /* Largura total */
+  height: 100%; /* Altura total */
+  background-image: url(/web-3dmodel-threejs-main/svg/Mountain-Flickr-removebg-preview.png);
+  background-size: cover; /* Faz a imagem cobrir todo o fundo */
+  background-position: center; /* Centraliza a imagem */
+  animation: zoom-background 10s ease-in-out infinite; /* Adiciona animação de zoom */
+  z-index: -1; /* Coloca atrás do conteúdo do body */
+}
+
+/* Animação de zoom para o fundo */
+@keyframes zoom-background {
+  0%, 100% {
+    transform: scale(1); /* Tamanho original */
+  }
+  50% {
+    transform: scale(1.05); /* Aumenta 5% */
+  }
+}
+
+/* Adicionando um pseudo-elemento para o background */
+body::before {
+  content: "";
+  position: absolute; /* Para sobrepor ao conteúdo */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+  filter: grayscale(100%); /* Aplica o filtro preto e branco */
+  z-index: -1; /* Coloca atrás do conteúdo */
+}
+
+
+header {
+  margin-top: 3em;
+  text-align: center;
+  color: white;
+}
+
+header h1 {
+  font-size: 2em;
+  font-weight: 900;
+}
+
+#container3D canvas {
+  width: 100vw !important;
+  height: 100vh !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+
+/****************************************
+
+/*********************************************/
+.abismo {
+  margin: 0;
+  padding: 0;
+  width: 50%; /* Definindo largura para facilitar o layout */
+  height: auto; /* Ajuste automático da altura */
+  margin-top: 200px;
+  z-index: 999;
+  display: inline-block; /* Permite que as duas divs fiquem lado a lado */
+}
+
+.abismo img {
+  width: 100%; /* Imagem ocupará 100% da largura do contêiner */
+  height: auto; /* Altura automática para manter a proporção */
+  transition: transform 0.3s ease; /* Transição suave */
+  animation: zoom 3s ease-in-out infinite; /* Adiciona a animação de zoom */
+}
+
+.abismo2 {
+  margin: 0;
+  padding: 0;
+  width: 50%; /* Definindo largura para facilitar o layout */
+  height: auto; /* Ajuste automático da altura */
+  margin-top: 460px; /* Alinhamento vertical */
+  z-index: 999;
+  display: inline-block; /* Permite que as duas divs fiquem lado a lado */
+  float: right; /* Alinha a imagem à direita */
+}
+
+.abismo2 img {
+  width: 100%; /* Imagem ocupará 100% da largura do contêiner */
+  height: auto; /* Altura automática para manter a proporção */
+  animation: zoom 3s ease-in-out infinite; /* Adiciona a animação de zoom */
+}
+
+.abismo,
+.abismo2 {
+  opacity: 0; /* Inicialmente invisível */
+  transform: translateY(20px); /* Move a imagem para baixo inicialmente */
+  transition: opacity 0.5s ease, transform 0.5s ease; /* Transições suaves */
+}
+
+.appear {
+  opacity: 1; /* Torna a imagem visível */
+  transform: translateY(0); /* Move a imagem para sua posição original */
+}
+
+/* Animação de zoom */
+@keyframes zoom {
+  0%, 100% {
+    transform: scale(1); /* Tamanho original */
+  }
+  50% {
+    transform: scale(1.05); /* Aumenta 5% */
+  }
+}
+
