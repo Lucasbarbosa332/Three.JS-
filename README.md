@@ -34,7 +34,7 @@ Meus projetos exploram o potencial de ambientes tridimensionais na web, proporci
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/city.png?raw=true"></img>
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
