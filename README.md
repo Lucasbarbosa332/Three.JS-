@@ -18,4 +18,34 @@ Meus projetos exploram o potencial de ambientes tridimensionais na web, proporci
 * WebGL: Para renderização de gráficos acelerados por hardware diretamente no navegador.
 * HTML, CSS e JavaScript: A integração com essas tecnologias front-end garantiu a responsividade e o design atrativo dos projetos.
 * Texturas e Modelagem: Utilizei ferramentas como Blender e Sketchfab para criar ou adaptar modelos 3D, adicionando texturas realistas e otimizadas para o ambiente web.
-* Elemetos em 3D pelo site 
+* Elemetos em 3D pelo site. [sketchfab](https://sketchfab.com/search?type=models)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+ <img width=100% src=""></img>
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<img width=100% src=""></img>
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<img width=100% src=""></img>
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<img width=100% src=""></img>
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h3 align='center'> 🌎 Rodando no navegador</h3>
+
+# Você pode clicar no link para ser redirecionado ao site:
+
+  <h3 align='center'> 🌎 Rodando no navegador</h3>
+  
+* [Abelha](https://sensational-beignet-489629.netlify.app/)
+* [honk kong](https://super-praline-bffa52.netlify.app)
+* [eyes](https://gleaming-pothos-684915.netlify.app/)
+* [city](https://tourmaline-peony-783731.netlify.app/)
+  
