@@ -22,7 +22,7 @@ Meus projetos exploram o potencial de ambientes tridimensionais na web, proporci
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
- <img width=100% src=""></img>
+ <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/abelha.png?raw=true"></img>
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -38,7 +38,6 @@ Meus projetos exploram o potencial de ambientes tridimensionais na web, proporci
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3 align='center'> 🌎 Rodando no navegador</h3>
 
 # Você pode clicar no link para ser redirecionado ao site:
 
