@@ -1,13 +1,16 @@
-# Three.JS-
+<div  align="center">
+  <p width="100%"> Thee.js </P>
+  </div>
+ <div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  
+</div>
 
 # Web 3D using library Three.js 📚
 
 Ao longo da minha jornada como desenvolvedor full stack, desenvolvi uma série de projetos focados em experiências interativas e visuais utilizando a biblioteca Three.js. Essa poderosa ferramenta permite criar gráficos 3D de alta performance diretamente no navegador, tornando possível transformar conceitos em realidades digitais imersivas.
 
-# Experiências 3D Interativas    <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  
-</div>
+# Experiências 3D Interativas   
 
 Meus projetos exploram o potencial de ambientes tridimensionais na web, proporcionando aos usuários experiências interativas e dinâmicas. Utilizando Three.js, fui capaz de:
 
