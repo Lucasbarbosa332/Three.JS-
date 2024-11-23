@@ -20,6 +20,26 @@ Meus projetos exploram o potencial de ambientes tridimensionais na web, proporci
 * Texturas e Modelagem: Utilizei ferramentas como Blender e Sketchfab para criar ou adaptar modelos 3D, adicionando texturas realistas e otimizadas para o ambiente web.
 * Elemetos em 3D pelo site. [sketchfab](https://sketchfab.com/search?type=models)
 
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 1. Instalação via npm (recomendado para projetos com sistemas de build modernos):
+
+    Abra o terminal no diretório do seu projeto e execute:
+
+```
+npm install three
+```
+Depois de instalado, você pode importar a biblioteca no seu
+código:
+
+```
+import * as THREE from 'three';
+import { Scene } from 'three';
+const scene = new Scene();
+```
+ Esta abordagem é ideal para projetos que utilizam ferramentas como Webpack ou Vite​
+
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
  <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/abelha.png?raw=true"></img>
