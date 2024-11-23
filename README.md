@@ -1,6 +1,6 @@
-<div  align="center">
-  <p width="100%"> Thee.js </P>
-  </div>
+
+# Three.js
+
  <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript" />
   
