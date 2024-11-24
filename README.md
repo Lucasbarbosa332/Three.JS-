@@ -70,7 +70,7 @@ const scene = new Scene();
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
- <img width=100% src=""></img>
+ <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Minicraft%20Block/dist/Captura%20de%20tela%202024-11-23%20043150.png"></img>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
