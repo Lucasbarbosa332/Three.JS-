@@ -1,6 +1,5 @@
 
-# Three.js
-
+<h2 align="center">⚒️ Three.js ⚒️</h2>
  <div align="center">
   
  <img src="https://skillicons.dev/icons?i=javascript" />
