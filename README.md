@@ -76,7 +76,7 @@ Este repositório reúne projetos que desenvolvi utilizando a poderosa bibliotec
 
 ## 🧊 Minicrfat 
 
-<img width=100% src="" alt="Block">
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Minicraft%20Block/dist/Captura%20de%20tela%202024-11-23%20043150.png?raw=true" alt="Block">
 
 
 
