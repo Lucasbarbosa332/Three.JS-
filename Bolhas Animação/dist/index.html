@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Three JS Animation</title>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.0/css/all.min.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<body>
+
+  <div class="mouse-effect">
+    <div class="circle">
+    </div>
+    <div class="circle-follow">
+    </div>
+  </div>
+
+  <header class="hide-text">
+    <div class="header-inner">
+      <a href="#" class="navbar-brand">
+        L.B.DEV
+      </a>
+      <nav>
+        <ul>
+          <li><a href="#">Coleção</a></li>
+          <li><a href="#">cinema 4d</a></li>
+          <li><a href="#">Produtos</a></li>
+          <li><a href="#">Avaliações</a></li>
+          <li><a href="#">Sobre</a></li>
+        </ul>
+      </nav>
+      <button class="ham-btn">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+    </div>
+  </header>
+
+  <h1 class="main-txt">L.B.DEV</h1>
+
+  <section class="banner hide-text">
+    <div class="banner-inner">
+      <div class="top-desc">
+        <h5>Disperção de Bolhas</h5>
+        <h6>Three.js & Desenvolvimneto</h6>
+        <span></span>
+      </div>
+      <div class="bottom-desc">
+        <div class="left-desc">
+          <h1>X</h1>
+          <div class="desc-inner">
+            <h5>Pink & Rose Gold</h5>
+            <h6>Material de estudos </h6>
+          </div>
+        </div>
+        <div class="middle-desc">
+          <h2>Colisões Dinamicas </h2>
+        </div>
+        <div class="right-desc">
+          <h1>01</h1>
+          <div class="desc-inner">
+            <span>Redes sociais </span>
+            <ul>
+              <li>
+                <a href="#">
+                  <i class="fa-brands fa-x-twitter"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="fa-brands fa-facebook-f"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="fa-brands fa-instagram"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="fa-brands fa-youtube"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <span class="rotated-text hide-text">Mova o curso para efitos</span>
+
+  <canvas class="webgl" id="webgl"></canvas>
+</body>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/three@0.132.2/build/three.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/three@0.132.2/examples/js/loaders/RGBELoader.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/three@0.132.2/examples/js/controls/OrbitControls.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/dat.gui@0.7.7/build/dat.gui.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
