@@ -71,7 +71,13 @@ Este repositório reúne projetos que desenvolvi utilizando a poderosa bibliotec
 <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Colunas%203D/dist/Captura%20de%20tela%202024-11-23%20040922.png" alt="Colunas 3D">
 
 ## 🌌 Céu Estrelado
+
 <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/sky/dist/Captura%20de%20tela%202024-11-24%20005106.png" alt="Céu Estrelado 3D">
+
+## 🧊 Minicrfat 
+
+<img width=100% src="" alt="Block">
+
 
 
 # 🌍 Projetos Online
