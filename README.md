@@ -84,7 +84,7 @@ Este repositório reúne projetos que desenvolvi utilizando a poderosa bibliotec
 
 ## 🫧 Bolhas
 
-<img width=100% src="" alt="Block">
+<img width=30% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20Anima%C3%A7%C3%A3o/Captura%20de%20tela%202024-12-02%20211849.png?raw=true" alt="Block"><img width=30% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20Anima%C3%A7%C3%A3o/Captura%20de%20tela%202024-12-02%20211849.png?raw=true" alt="Block"><img width=30% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20Anima%C3%A7%C3%A3o/Captura%20de%20tela%202024-12-02%20211849.png?raw=true" alt="Block"><img width=30% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20Anima%C3%A7%C3%A3o/Captura%20de%20tela%202024-12-02%20211849.png?raw=true" alt="Block">
 
 
 
