@@ -87,7 +87,7 @@ Este repositório reúne projetos que desenvolvi utilizando a poderosa bibliotec
 <div style="display: flex; justify-content: space-between;">
   <img width="30%" src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20Anima%C3%A7%C3%A3o/Captura%20de%20tela%202024-12-02%20211849.png?raw=true" alt="Block">
   <img width="30%" src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20curso/Captura%20de%20tela%202024-12-02%20231545.png?raw=true" alt="Block">
-  <img width="30%" src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20Anima%C3%A7%C3%A3o/Captura%20de%20tela%202024-12-02%20211849.png?raw=true" alt="Block">
+  <img width="30%" src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20Gravitacionias/Captura%20de%20tela%202024-12-02%20232914.png?raw=true" alt="Block">
 </div>
 
 
