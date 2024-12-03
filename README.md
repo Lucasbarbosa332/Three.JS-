@@ -80,7 +80,7 @@ Este repositório reúne projetos que desenvolvi utilizando a poderosa bibliotec
 
 ## 🌁 Metropolis 
 
-<img width=100% src="" alt="Block">
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Metropolis/Captura%20de%20tela%202024-12-02%20215537.png?raw=true" alt="Block">
 
 ## 🫧 Bolhas
 
