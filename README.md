@@ -92,7 +92,8 @@ Este repositório reúne projetos que desenvolvi utilizando a poderosa bibliotec
 
 ## 🌊 Onda colorida
 
-<img width=100% src="" alt="Olhos 3D">
+<img width=100% src="![image](https://github.com/user-attachments/assets/da3f321e-153e-4d23-8b15-2b9153dc18d7)
+" alt="Olhos 3D">
 
 
 # 🌍 Projetos Online
