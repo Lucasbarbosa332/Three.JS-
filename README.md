@@ -90,6 +90,10 @@ Este repositório reúne projetos que desenvolvi utilizando a poderosa bibliotec
   <img width="30%" src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20Gravitacionias/Captura%20de%20tela%202024-12-02%20232914.png?raw=true" alt="Block">
 </div>
 
+## 🌊 Onda colorida
+
+<img width=100% src="" alt="Olhos 3D">
+
 
 # 🌍 Projetos Online
   
