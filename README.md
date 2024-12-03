@@ -47,45 +47,36 @@ Este repositório reúne projetos que desenvolvi utilizando a poderosa bibliotec
 
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+# 🌟 Exemplos Visuais
 
- <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/abelha.png?raw=true"></img>
 
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+## 🐝 Abelha
 
-<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/hong%20kong.png"></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/abelha.png?raw=true" alt="Abelha 3D">
 
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+## 🌆 Hong Kong
 
-<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/eyes.png"></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/hong%20kong.png" alt="Hong Kong 3D">
 
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+## 👁️ Olhos
 
-<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/city.png?raw=true"></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/eyes.png" alt="Olhos 3D">
 
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+## 🏙️ Cidade
 
-<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Colunas%203D/dist/Captura%20de%20tela%202024-11-23%20040922.png"></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/city.png?raw=true" alt="Cidade 3D">
 
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+## 🏛️ Colunas 3D
 
- <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Minicraft%20Block/dist/Captura%20de%20tela%202024-11-23%20043150.png"></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Colunas%203D/dist/Captura%20de%20tela%202024-11-23%20040922.png" alt="Colunas 3D">
 
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+## 🌌 Céu Estrelado
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/sky/dist/Captura%20de%20tela%202024-11-24%20005106.png" alt="Céu Estrelado 3D">
 
- <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/sky/dist/Captura%20de%20tela%202024-11-24%20005106.png"></img>
 
-----------------------------------------------------------------------------------------------------------------------------------------
-
-# Você pode clicar no link para ser redirecionado ao site:
-
-  <h3 align='center'> 🌎 Rodando no navegador</h3>
+# 🌍 Projetos Online
   
-* [Abelha](https://sensational-beignet-489629.netlify.app/)
-* [honk kong](https://super-praline-bffa52.netlify.app)
-* [eyes](https://gleaming-pothos-684915.netlify.app/)
-* [city](https://tourmaline-peony-783731.netlify.app/)
-* [coluna](#)
-* [sky](#)
-* [Minicraft](#)
+  Clique nos links abaixo para acessar as demos:
+
+
   
