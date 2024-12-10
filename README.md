@@ -117,7 +117,7 @@ Uma onda colorida em 3D que se movimenta de forma fluida, criando uma visualiza�
 
 Um lençol em 3D com varias cores interativas podenddo adicionar faces para movimentos 
 
-<img width=100% src="">
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/simple-three-js-matcap-demo/dist/Captura%20de%20tela%202024-12-10%20003754.png?raw=true">
 
 
 # 🌍 Projetos Online
