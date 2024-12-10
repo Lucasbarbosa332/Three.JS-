@@ -49,50 +49,69 @@ Este repositório reúne projetos que desenvolvi utilizando a poderosa bibliotec
 
 # 🌟 Exemplos Visuais
 
+## 🐝 Abelha 3D
 
-## 🐝 Abelha
+Este site apresenta uma abelha em 3D que se move automaticamente conforme você rola a página, criando uma interação dinâmica e interessante.
 
 <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/abelha.png?raw=true" alt="Abelha 3D">
 
-## 🌆 Hong Kong
+## 🌆 Hong Kong 3D
+
+Uma experiência imersiva onde você pode visualizar a vista dentro de um prédio em Hong Kong ao rolar o scroll da página. Explore a cidade de uma perspectiva única.
 
 <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/hong%20kong.png" alt="Hong Kong 3D">
 
-## 👁️ Olhos
+## 👁️ Olhos Interativos
+
+Um par de olhos em 3D que seguem o movimento do seu mouse, criando uma sensação de interatividade e profundidade.
 
 <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/eyes.png" alt="Olhos 3D">
 
-## 🏙️ Cidade
+## 🏙️ Cidade 3D
+
+Uma cidade escura em 3D que oferece uma atmosfera única, ideal para explorar e apreciar a visão futurista.
 
 <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/mg/city.png?raw=true" alt="Cidade 3D">
 
 ## 🏛️ Colunas 3D
 
+Gráficos de colunas 3D que representam dados de forma visual e envolvente, oferecendo uma interação dinâmica com a visualização.
+
 <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Colunas%203D/dist/Captura%20de%20tela%202024-11-23%20040922.png" alt="Colunas 3D">
 
-## 🌌 Céu Estrelado
+## 🌌 Céu Estrelado Interativo
+
+Controle o voo de uma nave através do céu estrelado usando o mouse. Experimente a sensação de liberdade enquanto explora o espaço.
 
 <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/sky/dist/Captura%20de%20tela%202024-11-24%20005106.png" alt="Céu Estrelado 3D">
 
-## 🧊 Minicrfat 
+## 🧊 Minicraft 3D
 
-<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Minicraft%20Block/dist/Captura%20de%20tela%202024-11-23%20043150.png?raw=true" alt="Block">
+Construa uma torre de blocos em um ambiente 3D inspirado no popular jogo de construção. Experimente a física realista ao empilhar os blocos.
 
-## 🌁 Metropolis 
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Minicraft%20Block/dist/Captura%20de%20tela%202024-11-23%20043150.png?raw=true" alt="Minicraft 3D">
 
-<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Metropolis/Captura%20de%20tela%202024-12-02%20215537.png?raw=true" alt="Block">
+## 🌁 Metropolis 3D
 
-## 🫧 Bolhas
+Explore uma cidade futurista vista de cima, onde a movimentação do mouse permite interação com a visão da metrópole.
+
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Metropolis/Captura%20de%20tela%202024-12-02%20215537.png?raw=true" alt="Metropolis 3D">
+
+## 🫧 Bolhas Animadas
+
+Explore diferentes tipos de animações com bolhas em 3D, que reagem ao movimento do mouse ou a interações como flutuar e mudar de cor.
 
 <div style="display: flex; justify-content: space-between;">
-  <img width="30%" src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20Anima%C3%A7%C3%A3o/Captura%20de%20tela%202024-12-02%20211849.png?raw=true" alt="Block">
-  <img width="30%" src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20curso/Captura%20de%20tela%202024-12-02%20231545.png?raw=true" alt="Block">
-  <img width="30%" src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20Gravitacionias/Captura%20de%20tela%202024-12-02%20232914.png?raw=true" alt="Block">
+  <img width="30%" src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20Anima%C3%A7%C3%A3o/Captura%20de%20tela%202024-12-02%20211849.png?raw=true" alt="Bolhas 3D">
+  <img width="30%" src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20curso/Captura%20de%20tela%202024-12-02%20231545.png?raw=true" alt="Bolhas 3D">
+  <img width="30%" src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/Bolhas%20Gravitacionias/Captura%20de%20tela%202024-12-02%20232914.png?raw=true" alt="Bolhas 3D">
 </div>
 
-## 🌊 Onda colorida
+## 🌊 Onda Colorida Interativa
 
-<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/interactive-3d-background/Captura%20de%20tela%202024-12-02%20233758.png?raw=true" alt="Olhos 3D">
+Uma onda colorida em 3D que se movimenta de forma fluida, criando uma visualização atraente e relaxante. Experimente essa interação dinâmica.
+
+<img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/interactive-3d-background/Captura%20de%20tela%202024-12-02%20233758.png?raw=true" alt="Onda Colorida 3D">
 
 
 # 🌍 Projetos Online
