@@ -113,6 +113,12 @@ Uma onda colorida em 3D que se movimenta de forma fluida, criando uma visualiza�
 
 <img width=100% src="https://github.com/Lucasbarbosa332/Three.JS-/blob/main/interactive-3d-background/Captura%20de%20tela%202024-12-02%20233758.png?raw=true" alt="Onda Colorida 3D">
 
+## 🛏️ Lençol de cama em 3D com Faces 
+
+Um lençol em 3D com varias cores interativas podenddo adicionar faces para movimentos 
+
+<img width=100% src="">
+
 
 # 🌍 Projetos Online
   
